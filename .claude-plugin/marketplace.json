@@ -1,0 +1,19 @@
+{
+  "name": "nextjs-security-hardening",
+  "description": "Harden a Next.js app: AI bot protection, DevTools deterrence, rate limiting, security headers, and an audit of what is actually exposed.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Harden a Next.js app: AI bot protection, DevTools deterrence, rate limiting, security headers, and an audit of what is actually exposed.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nextjs-security-hardening",
+      "source": "./plugins/nextjs-security-hardening",
+      "description": "Harden a Next.js app: AI bot protection, DevTools deterrence, rate limiting, security headers, and an audit of what is actually exposed."
+    }
+  ]
+}

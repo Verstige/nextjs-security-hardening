@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-security-hardening",
+  "displayName": "Nextjs Security Hardening",
+  "version": "1.0.0",
+  "description": "Harden a Next.js app: AI bot protection, DevTools deterrence, rate limiting, security headers, and an audit of what is actually exposed.",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "nextjs security hardening"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
